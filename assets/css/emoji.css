@@ -1,18 +1,18 @@
 
 .emoji{
     position: fixed;
-    bottom: 0%;
+    bottom: 10%;
     left: -180px;
     width: 180px;
 }
 @keyframes show {
     0%{left: -180px;}
-    50%{left: 50px;}
+    50%{left: 50%;}
     100%{left: -180px;}
 }
 .emoji.show{
     animation: ease-in-out;
     animation-name: show;
-    animation-duration: 3s;
+    animation-duration: 5s;
     
 }
