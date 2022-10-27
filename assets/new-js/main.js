@@ -1,2 +1,6 @@
 
-function showConfet()
+function showConfet(id){
+    party.confetti(runButton, {
+        count: party.variation.range(20, 40),
+    });
+}
