@@ -14,16 +14,5 @@
 
 
 #Video Apresentação
-[](apresentation/apress.mp4)
-<video  src="apresentation/apress.mp4" width= "350px" height ="600px">
-<video  src="apresentation/apress.mp4" width= "350px" height ="600px"controls>
-<video  src="apresentation/apress.mp4" width= "350px" height ="600px"controls type= "video/mp4">
-<video  src="apresentation/apress.mp4" width= "350px" height ="600px" type= "video/mp4">
-<video  src="apresentation/apress.mp4">
 
-
-<video width="320" height="240" controls>
-  <source src="apresentation/apress.mp4" type="video/mp4"> 
-Your browser does not support the video tag.
-</video>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6jIz_8tokvg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<a href="apresentation/apress.mp4" title="Vídeo de Apresentação"><img src="apresentation/telainicial.png" alt="Alternate Text" /></a>
