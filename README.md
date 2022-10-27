@@ -6,11 +6,11 @@
  Mas devido as credenciais estarem sendo expostas no github o firebase foi substituido por um metodo que 
  é chamado a cada 10 segundos para gol do Brasil e a cada 8 segundos para gol da sérvia
  # Tela do App
- <img  src="apresentation/gol.png" width= "350px" height ="600px">
+ <img  src="apresentation/gol.png" width= "320px" height ="600px">
  
 
  # Animação de Gol
- <img  src="apresentation/telainicial.png" width= "350px" height ="600px">
+ <img  src="apresentation/telainicial.png" width= "320px" height ="600px">
 
 
 #Video Apresentação
@@ -26,3 +26,4 @@
   <source src="apresentation/apress.mp4" type="video/mp4"> 
 Your browser does not support the video tag.
 </video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6jIz_8tokvg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
