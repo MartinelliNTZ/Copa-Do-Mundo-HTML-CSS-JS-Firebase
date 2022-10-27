@@ -11,7 +11,7 @@
 
  # Animação de Gol
  
-![](apresentation/telainicial.png)
+![](apresentation/telainicial.png = 250x)
 <img width: 180px>
 ![](apresentation/telainicial.png)
 </img>
