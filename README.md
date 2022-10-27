@@ -13,7 +13,6 @@
  <img  src="apresentation/telainicial.png" width= "320px" height ="600px">
 
 
-#Video Apresentação
+# Video Apresentação
 
 <a href="https://youtube.com/shorts/1kPU6W2-1Jg?feature=share" title="Vídeo de Apresentação"><img src="apresentation/telainicial.png" alt="Alternate Text" width= "320px" height ="600px"/></a>
-<a href="https://youtube.com/shorts/1kPU6W2-1Jg?feature=share" title="Vídeo de Apresentação"></a>
