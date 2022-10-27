@@ -6,7 +6,8 @@
  Mas devido as credenciais estarem sendo expostas no github o firebase foi substituido por um metodo que 
  é chamado a cada 10 segundos para gol do Brasil e a cada 8 segundos para gol da sérvia
  # Tela do App
- ![](apresentation/Screenshot_20221027-144930.png)<br>
+ <img  src="![](apresentation/gol.png)"  >
+ 
 
  # Animação de Gol
  
