@@ -15,4 +15,4 @@
 
 #Video Apresentação
 
-<a href="apresentation/apress.mp4" title="Vídeo de Apresentação"><img src="apresentation/telainicial.png" alt="Alternate Text" /></a>
+<a href="apresentation/apress.mp4" title="Vídeo de Apresentação"><img src="apresentation/telainicial.png" alt="Alternate Text" width= "320px" height ="600px/></a>
