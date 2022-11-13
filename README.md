@@ -5,6 +5,11 @@
  A atualização do saldo dos gols é implementada inicialmente atravéz do firebase.
  Mas devido as credenciais estarem sendo expostas no github o firebase foi substituido por um metodo que 
  é chamado a cada 10 segundos para gol do Brasil e a cada 8 segundos para gol da sérvia
+ 
+ # Disponível em
+  - Site foi hospedado pelo Firebase Hosting no endereço
+  - https://copa-app-mtlsa.web.app/
+  
  # Tela do App
  <img  src="apresentation/gol.png" width= "320px" height ="600px">
  
